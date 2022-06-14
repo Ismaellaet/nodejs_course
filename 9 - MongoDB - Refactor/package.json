@@ -1,0 +1,19 @@
+{
+	"name": "multi-db",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --detectOpenHandles"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.0.1",
+		"mongoose": "^6.3.6"
+	},
+	"devDependencies": {
+		"jest": "^28.1.1"
+	}
+}
