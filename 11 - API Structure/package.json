@@ -1,0 +1,22 @@
+{
+	"name": "multi-db",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --detectOpenHandles"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@hapi/hapi": "^20.2.2",
+		"dotenv": "^16.0.1",
+		"mongoose": "^6.3.8",
+		"pg": "^8.7.3",
+		"sequelize": "^6.20.1"
+	},
+	"devDependencies": {
+		"jest": "^28.1.1"
+	}
+}
